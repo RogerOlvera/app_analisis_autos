@@ -1,6 +1,14 @@
-# app_analisis_anuncios_autos_usados
+# **Versión 1.1 app_analisis_anuncios_autos_usados**
 
 **App de análisis de anuncios de venta de autos usados. Proyecto Sprint 7.**
+
+**Actualizaciones:**
+
+- Se mejora distribución del contenido.
+- Se crean espacios entre secciones y botones
+- Se centran títulos de secciones
+- Se agrega gráfica de comparación de histogramas de modelos de autos
+- Se agrega linea de créditos
 
 **Link web de la aplicación:** https://app-analisis-autos.onrender.com
 
