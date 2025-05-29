@@ -1,22 +1,12 @@
 # **Versión 1.1 app_analisis_anuncios_autos_usados**
 
-**App de análisis de anuncios de venta de autos usados. Proyecto Sprint 7.**
+## :bookmark_tabs: **Descripción del proyecto**
 
-**Actualizaciones:**
+Se cuenta con una base de datos de anuncios de autos usados a la venta. Se solicita crear una aplicación tipo dashboard para analizar la información contenida en la base y facilitar la comparación entre los anuncios y los autos publicados.
 
-- Se mejora distribución del contenido.
-- Se crean espacios entre secciones y botones
-- Se centran títulos de secciones
-- Se agrega gráfica de comparación de histogramas de modelos de autos
-- Se agrega linea de créditos
+## :dart: **Objetivo:** Crear una app interactiva que analice la información de los anuncios de venta de autos usados.
 
-**Link web de la aplicación:** https://app-analisis-autos.onrender.com
-
-**Link repositorio GitHub:** https://github.com/RogerOlvera/app_analisis_autos
-
-**Objetivo:** Crear una app interactiva que analice la información de los anuncios de venta de autos usados.
-
-**Funcionalidades de la app:**
+## :clipboard: **Funcionalidades de la app:**
 
 * Año del auto más antiguo.
 * Año del auto más reciente.
@@ -30,7 +20,9 @@
 * Relación color-precio por tipo de auto.
 * Relación de año de modelo-precio por modelo de auto.
 
-**Diccionario información:**
+## :white_check_mark: **Link web de la aplicación:** https://app-analisis-autos.onrender.com
+
+## :book: **Diccionario información:**
 
 * Base de datos: car_data, base de datos que contiene la información de los anuncios de venta de autos usados.
 
@@ -49,3 +41,21 @@
     * is_4wd: indica si el auto es tracción a 4 ruedas.
     * date_posted: fecha de la publicación del anuncio.
     * days_listed: conteo de días transcurridos desde la publicación del anuncio.
+
+## :computer: **Librerías utilizadas**
+
+:diamond_shape_with_a_dot_inside: pandas
+
+:diamond_shape_with_a_dot_inside: plotly
+
+:diamond_shape_with_a_dot_inside: streamlit
+
+:diamond_shape_with_a_dot_inside: onrender
+
+## :up: **Actualizaciones**
+
+- Se mejora distribución del contenido.
+- Se crean espacios entre secciones y botones
+- Se centran títulos de secciones
+- Se agrega gráfica de comparación de histogramas de modelos de autos
+- Se agrega linea de créditos
